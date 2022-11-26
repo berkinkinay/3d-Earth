@@ -18,8 +18,7 @@
 ### `MIT` ⚖️
 
 ## `Developer Side (Upcoming features)`💫
-This is for now...  I am going to add new stuff about background and new functional user methodsa and features. There is gonna be better quality and names of the counrties.
- `Especially I'm focusing on new sections about my showcase recently.`
+This is for now...  `I am going to add new stuff about background and new functional user methodsa and features.` There is gonna be better quality and names of the counrties.
 
 ### `dev`
 Berkin Kınay 👤

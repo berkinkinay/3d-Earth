@@ -1,2 +1,2 @@
 # Earth-3D
-This project is about Map coding and designing about 3D in React.
+This project is about coding and designing 3D Map in React.

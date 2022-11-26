@@ -7,7 +7,7 @@
 ### `ReactJS`
 ### `ThreeJS`
 ### `TailwindCSS`
-### `API'
+### `API`
 
 
 ## Project Link 🔭

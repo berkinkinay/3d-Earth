@@ -1,5 +1,5 @@
 # Earth 3D Map 💻🌏
-`This project hasn't finished yet. The project is about coding and designing 3D Map in React.`
+`This project hasn't finished yet, it is in early development rigt now. The project is about coding and designing 3D Map in React.`
 
 ## Used Techs 🥰
 

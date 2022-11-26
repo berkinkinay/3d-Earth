@@ -1,4 +1,4 @@
-# Earth-3D Map 💻🌏
+# Earth 3D Map 💻🌏
 `This project is about coding and designing 3D Map in React.`
 
 ## Used Techs 🥰

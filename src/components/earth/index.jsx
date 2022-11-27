@@ -16,7 +16,7 @@ export function Earth(props) {
   return (
     <>
         <ambientLight intensity={1} />
-        <Stars radius={300} depth={50} />
+        <Stars radius={400} depth={90} />
         <mesh>
             <sphereGeometry args={[1, 32, 32]}/>
             <meshPhongMaterial 

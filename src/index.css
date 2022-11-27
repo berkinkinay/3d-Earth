@@ -10,3 +10,11 @@ body,
     margin: 0;
     padding: 0;
 }
+
+@layer components {
+    .earth {
+      @apply  flex h-screen 3xl:w-full bg-black 3xl:items-center
+              justify-center 2xl:flex 2xl:items-center 2xl:justify-center 
+              2xl:bg-black
+     }
+}

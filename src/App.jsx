@@ -8,10 +8,7 @@ import { Earth } from './components/earth/index'
 function App() {
   return (
 
-  <div 
-   class=
-   "flex h-screen w-full bg-gray-900 items-center justify-center"
-  >
+  <div class="earth">
     <Canvas>
         <Suspense fallback= {null}>
            <Earth />

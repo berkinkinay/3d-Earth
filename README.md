@@ -7,7 +7,6 @@
 ### `ReactJS`
 ### `ThreeJS`
 ### `TailwindCSS`
-### `React router`
 
 ## Project Link 🔭
 
@@ -17,8 +16,7 @@
 ### `MIT` ⚖️
 
 ## `Developer Side (Upcoming features)`💫
-This is for now...  I am going to add new features and also new techs in it, tablet view (for moreinfo.js page), mobile navbar, new animations and also new pages more information about me.
- `Especially I'm focusing on new sections about my showcase recently.`
+This is for now...  I am going to add new features and also new techs in it soon, This project is gonna be a 3D Earth Map. There is going to be names of countries and more like this stuff. `I'm focusing more functional methods to make this project more user interractions on this 3D object.`
 
 ### `dev`
 Berkin Kınay 👤

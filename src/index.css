@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, 
+body, 
+#root {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    background-color: rgb(3, 3, 14);
+}
+
+@layer components {
+    .earth {
+      @apply  flex h-screen 3xl:w-full 3xl:items-center
+              justify-center 2xl:flex 2xl:items-center 2xl:justify-center 
+     }
+}

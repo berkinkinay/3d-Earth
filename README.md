@@ -10,7 +10,7 @@
 
 ## Project Link 🔭
 
-`See the project what it looks like` => [Review](https://berkinkinay.dev/)
+`See the project what it looks like` => [Review](https://3d-earth-map.vercel.app/)
 
 ## Licance
 ### `MIT` ⚖️
